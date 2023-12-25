@@ -1,0 +1,13 @@
+table{
+    margin: auto;
+    border-collapse: collapse;
+    border: 2px solid rgba(128, 128, 128, 0.64);
+}
+
+th , td{
+    border: 2px solid rgba(128, 128, 128, 0.64);
+}
+
+.modify{
+    background-color: rgba(110, 109, 109, 0.566);
+}
